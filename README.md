@@ -7,7 +7,7 @@ Masternodestats is a discord bot to help monitor your masternode node. You can c
 
 Discord bot allow us to give user real-time notification for user masernodes right on user smart devices and computer. In addition, user will not be required to reigster their information to us to get service. At the result, user can remain annomynous.
 
-2. Will there ever be a fee website for our service?
+2. Will there ever be a website for our service?
 
 There will be a website in the future. This bot/service is being built from ground up so we would like to focus to get it working roburst then we will make a website for it.
 
