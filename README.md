@@ -17,7 +17,7 @@ Yes. Just like masternode.online or similar services, we do not charge our users
 
 4. What coin currently supported?
 
-We still in public testing periods in which i will support up to 5 coins free of charge. These are coin that is currently support or i am planning to support: Phase(PHASE), xGalaxy(XGCS), and Reden(RDEN). Send us a request if u want ur coin to be included in our testing period.
+We still in public testing periods in which i will support up to 10 coins free of charge. These are coin that is currently support or i am planning to support: Phase(PHASE), xGalaxy(XGCS), SovereignCoin(SOV) and Reden(RDEN). Send us a request if u want ur coin to be included in our testing period.
 
 5. where do I report issue or request new feature?
 
